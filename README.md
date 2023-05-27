@@ -1,4 +1,4 @@
-# DongshanPI PicoW Docker
+# DongshanPI PicoW Docker
 
 ## Prerequisites
 Download [IKAYAKI_SDK.zip](https://dongshanpi.cowtransfer.com/s/5c3c05deef7247), extract it, and place each folder in the IKAYAKI_SDK **directory** of this project, resulting in a file structure as depicted in the following image.
