@@ -42,3 +42,6 @@ make image
 cp -a image/output/images/* /artifact
 echo "[run] OK"
 ```
+
+## Flash System
+Copy and burn the image. After compilation, the image can be found in the directory `artifact`.
