@@ -1,0 +1,14 @@
+.DS_Store
+artifact/
+!artifact/.gitkeep
+IKAYAKI_SDK/arm-sigmastar-linux-uclibcgnueabihf-*
+IKAYAKI_SDK/boot
+IKAYAKI_SDK/gcc-sigmastar-*
+IKAYAKI_SDK/kernel
+!IKAYAKI_SDK/kernel/_makefile
+!IKAYAKI_SDK/kernel/Makefile
+!IKAYAKI_SDK/kernel/scripts/ms_bin_option_update_int.py
+!IKAYAKI_SDK/kernel/scripts/ms_builtin_dtb_update.py
+
+IKAYAKI_SDK/project
+IKAYAKI_SDK/sdk
