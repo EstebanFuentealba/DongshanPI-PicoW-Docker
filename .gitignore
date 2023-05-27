@@ -1,6 +1,14 @@
 .DS_Store
-artifact/
-!artifact/.gitkeep
+artifact/*.txt
+artifact/*.ubifs
+artifact/*.bin
+artifact/*.fwfs
+artifact/*.sqfs
+artifact/kernel
+artifact/boot
+artifact/scripts
+artifact/scripts_bin
+!*.gitkeep
 IKAYAKI_SDK/arm-sigmastar-linux-uclibcgnueabihf-*
 IKAYAKI_SDK/boot
 IKAYAKI_SDK/gcc-sigmastar-*
